@@ -1,0 +1,5 @@
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Release\net6.0\linux-x64\MagicTheServerlessling.csproj.AssemblyReference.cache
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Release\net6.0\linux-x64\MagicTheServerlessling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Release\net6.0\linux-x64\MagicTheServerlessling.AssemblyInfoInputs.cache
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Release\net6.0\linux-x64\MagicTheServerlessling.AssemblyInfo.cs
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Release\net6.0\linux-x64\MagicTheServerlessling.csproj.CoreCompileInputs.cache

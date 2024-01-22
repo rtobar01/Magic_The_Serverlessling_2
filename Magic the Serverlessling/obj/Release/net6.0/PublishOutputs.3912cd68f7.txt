@@ -1,0 +1,10 @@
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Release\net6.0\app.publish\MagicTheServerlessling.exe
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Release\net6.0\app.publish\MagicTheServerlessling.dll
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Release\net6.0\app.publish\MagicTheServerlessling.deps.json
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Release\net6.0\app.publish\MagicTheServerlessling.runtimeconfig.json
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Release\net6.0\app.publish\MagicTheServerlessling.pdb
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Release\net6.0\app.publish\Amazon.Lambda.Core.dll
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Release\net6.0\app.publish\Amazon.Lambda.S3Events.dll
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Release\net6.0\app.publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Release\net6.0\app.publish\AWSSDK.Core.dll
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Release\net6.0\app.publish\AWSSDK.S3.dll

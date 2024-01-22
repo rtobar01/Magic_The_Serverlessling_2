@@ -1,0 +1,51 @@
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.exe
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.deps.json
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.runtimeconfig.json
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.runtimeconfig.dev.json
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.dll
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\ref\Magic the Serverlessling.dll
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.pdb
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.csproj.AssemblyReference.cache
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.AssemblyInfoInputs.cache
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.AssemblyInfo.cs
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.csproj.CoreCompileInputs.cache
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.dll
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\ref\Magic the Serverlessling.dll
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.pdb
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.genruntimeconfig.cache
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.exe
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.deps.json
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.runtimeconfig.json
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.runtimeconfig.dev.json
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.dll
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\ref\Magic the Serverlessling.dll
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.pdb
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.csproj.AssemblyReference.cache
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.AssemblyInfoInputs.cache
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.AssemblyInfo.cs
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.csproj.CoreCompileInputs.cache
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.dll
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\ref\Magic the Serverlessling.dll
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.pdb
+C:\Users\roy_x\OneDrive\Escritorio\Magic the Serverlessling\Magic the Serverlessling\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.genruntimeconfig.cache
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.exe
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.deps.json
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.runtimeconfig.json
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.runtimeconfig.dev.json
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.dll
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\Magic the Serverlessling.pdb
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.csproj.AssemblyReference.cache
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.AssemblyInfoInputs.cache
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.AssemblyInfo.cs
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.csproj.CoreCompileInputs.cache
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.dll
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\refint\Magic the Serverlessling.dll
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.pdb
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.genruntimeconfig.cache
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\ref\Magic the Serverlessling.dll
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\bin\Debug\net5.0\AWSSDK.S3.dll
+C:\Users\roy_x\OneDrive\Documentos\GitHub\Magic_The_Serverlessling\Magic the Serverlessling\obj\Debug\net5.0\Magic the Serverlessling.csproj.CopyComplete

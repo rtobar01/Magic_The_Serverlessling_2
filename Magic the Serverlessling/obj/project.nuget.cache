@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "jEHWhpqdL5Um/JhaJ0OMVsMP81+lqLlMjDSmRBVryyr/Yel6QkH0lK/IT9h3GkPv9XJ3FhylA7C+5W9/RbM/Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roy_x\\OneDrive\\Documentos\\GitHub\\Magic_The_Serverlessling\\Magic the Serverlessling\\MagicTheServerlessling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roy_x\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\roy_x\\.nuget\\packages\\amazon.lambda.s3events\\3.0.1\\amazon.lambda.s3events.3.0.1.nupkg.sha512",
+    "C:\\Users\\roy_x\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "C:\\Users\\roy_x\\.nuget\\packages\\awssdk.core\\3.7.201.6\\awssdk.core.3.7.201.6.nupkg.sha512",
+    "C:\\Users\\roy_x\\.nuget\\packages\\awssdk.s3\\3.7.203.1\\awssdk.s3.3.7.203.1.nupkg.sha512",
+    "C:\\Users\\roy_x\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\roy_x\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\roy_x\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\roy_x\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
