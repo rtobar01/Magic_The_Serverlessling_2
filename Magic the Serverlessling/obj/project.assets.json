@@ -193,11 +193,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\roy_x\\OneDrive\\Documentos\\GitHub\\Magic_The_Serverlessling\\Magic the Serverlessling\\MagicTheServerlessling.csproj",
+      "projectUniqueName": "C:\\Users\\roy_x\\OneDrive\\Documentos\\GitHub\\Magic_The_Serverlessling_2\\Magic the Serverlessling\\MagicTheServerlessling.csproj",
       "projectName": "MagicTheServerlessling",
-      "projectPath": "C:\\Users\\roy_x\\OneDrive\\Documentos\\GitHub\\Magic_The_Serverlessling\\Magic the Serverlessling\\MagicTheServerlessling.csproj",
+      "projectPath": "C:\\Users\\roy_x\\OneDrive\\Documentos\\GitHub\\Magic_The_Serverlessling_2\\Magic the Serverlessling\\MagicTheServerlessling.csproj",
       "packagesPath": "C:\\Users\\roy_x\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\roy_x\\OneDrive\\Documentos\\GitHub\\Magic_The_Serverlessling\\Magic the Serverlessling\\obj\\",
+      "outputPath": "C:\\Users\\roy_x\\OneDrive\\Documentos\\GitHub\\Magic_The_Serverlessling_2\\Magic the Serverlessling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jEHWhpqdL5Um/JhaJ0OMVsMP81+lqLlMjDSmRBVryyr/Yel6QkH0lK/IT9h3GkPv9XJ3FhylA7C+5W9/RbM/Tg==",
+  "dgSpecHash": "ucfPvIOCeFIMJ56AkxYaQGz2i32LNQ8ccCPFb9/Yns9n8lGCg0UGXD4fPfwtBTOlAzXBe6J+SFCl2ts/+FDWWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\roy_x\\OneDrive\\Documentos\\GitHub\\Magic_The_Serverlessling\\Magic the Serverlessling\\MagicTheServerlessling.csproj",
+  "projectFilePath": "C:\\Users\\roy_x\\OneDrive\\Documentos\\GitHub\\Magic_The_Serverlessling_2\\Magic the Serverlessling\\MagicTheServerlessling.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\roy_x\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
     "C:\\Users\\roy_x\\.nuget\\packages\\amazon.lambda.s3events\\3.0.1\\amazon.lambda.s3events.3.0.1.nupkg.sha512",
